@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		53A8FEF724597B8D00493DE0 /* scoreResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A8FEF624597B8D00493DE0 /* scoreResult.swift */; };
 		53B393BC2456DD3B00A1897D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B393BB2456DD3B00A1897D /* AppDelegate.swift */; };
 		53B393BE2456DD3B00A1897D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B393BD2456DD3B00A1897D /* SceneDelegate.swift */; };
 		53B393C02456DD3B00A1897D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B393BF2456DD3B00A1897D /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		53A8FEF624597B8D00493DE0 /* scoreResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scoreResult.swift; sourceTree = "<group>"; };
 		53B393B82456DD3B00A1897D /* hw3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hw3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		53B393BB2456DD3B00A1897D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		53B393BD2456DD3B00A1897D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				53B393BB2456DD3B00A1897D /* AppDelegate.swift */,
 				53B393BD2456DD3B00A1897D /* SceneDelegate.swift */,
 				53B393BF2456DD3B00A1897D /* ContentView.swift */,
+				53A8FEF624597B8D00493DE0 /* scoreResult.swift */,
 				53B393C12456DD3C00A1897D /* Assets.xcassets */,
 				53B393C62456DD3C00A1897D /* LaunchScreen.storyboard */,
 				53B393C92456DD3C00A1897D /* Info.plist */,
@@ -149,6 +152,7 @@
 				53B393BC2456DD3B00A1897D /* AppDelegate.swift in Sources */,
 				53B393BE2456DD3B00A1897D /* SceneDelegate.swift in Sources */,
 				53B393C02456DD3B00A1897D /* ContentView.swift in Sources */,
+				53A8FEF724597B8D00493DE0 /* scoreResult.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
